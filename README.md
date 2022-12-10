@@ -8,7 +8,7 @@ This is an app for building and voting for the cutest animal.
 # Development
 To get the code,
 ```bash
- click on this link: https://github.com/kericho/code-challenge2flatacuties.git
+ click on this link: https://github.com/kericho/resubmission-of-code-challenge2flatacuties.git
  ```
 - fork and git clone the code to you local machine.
 - Navigate to this folder by running this command:

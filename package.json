@@ -1,5 +1,5 @@
 {
-  "name": "code-challenge2flatacuties",
+  "name": "resubmission-of-code-challenge2flatacuties",
   "version": "1.0.0",
   "description": "Testing the cutest animal",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kericho/code-challenge2flatacuties.git"
+    "url": "git+https://github.com/kericho/resubmission-of-code-challenge2flatacuties.git"
   },
   "author": "Elvis Rono",
   "license": "ISC",
