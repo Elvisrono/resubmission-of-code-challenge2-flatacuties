@@ -1,0 +1,35 @@
+<html>
+  <head>
+    <title>Flatacuties</title>
+    <link rel="stylesheet" type="text/css" href="main.css/style.css" />
+    <link rel="stylesheet" type="text/css" href="main.css/bootstrap.css"/>
+  </head>
+  <body>
+    <nav class="navbar bg-dark">
+      <div class="container-fluid">
+          <a class="navbar-brand nav-item text-light" id="home-link">Flatacuties</a>
+      </div>
+    </nav>
+    <div class="navbar-brand nav-item" id="character-bar">
+    </div>
+    </nav>
+    <div class="characterInfo">
+      <div id="detailed-info">
+        <p id="name">Character's Name</p>
+        <img
+          id="image"
+          src="assets/Aq.gif"
+          alt="Character's Name"
+        />
+        <h4>Total Votes: <span id="vote-count">Character's Votes</span></h4>
+        <form id="votes-form">
+          <input type="text" placeholder="Input the number of Votes" id="votes" name="votes" />
+          <input class="btn btn-primary"type="submit" value="Add Votes" />
+        </form>
+        <button class="btn btn-primary" id="reset-btn">Reset Votes</button>
+      </div>
+    </div>
+    <script src="src/index.js"></script>
+    <script src="src/bootstrap.js"></script>
+  </body>
+</html>
