@@ -29,6 +29,7 @@ To get the code,
 - HTML
 - CSS
 - Javascript
+- Bootstrap
 
 # Deliverables
 
